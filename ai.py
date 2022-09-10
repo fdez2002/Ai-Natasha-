@@ -8,7 +8,7 @@ import wikipedia
 import pyjokes
 
 name = "nati"
-key = "AIzaSyBCcg-ARS5ULSTRoK3idtKai49N6qXyBGc"
+key = ""
 listener = sr.Recognizer()
 
 engine = pyttsx3.init()
